@@ -1,3 +1,4 @@
+### I debuged the full source code . Everything is fine.
 import tkinter as tk
 from tkinter import ttk, messagebox
 import math
