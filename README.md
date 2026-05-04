@@ -3,7 +3,8 @@
 A Python GUI application for calculating and planning nutrition intake using tkinter.
 
 **Author:** AS3AD  
-**Repository:** https://github.com/yousefas3ad/Project
+**Repository:** https://github.com/yousefas3ad/Project  
+**Contributors:** eyadnaga-tech
 
 ## Features
 
